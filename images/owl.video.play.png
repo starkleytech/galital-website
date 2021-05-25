@@ -61,10 +61,10 @@ gtag("config", "UA-190563951-1", {"anonymize_ip":true});
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://galital.com/wp-includes/wlwmanifest.xml" />
 <meta name="generator" content="WordPress 5.7.2" />
 <meta name="generator" content="Site Kit by Google 1.31.0" /><style type="text/css">@media only screen and (max-width: 991px) { .site-header .navbar.is-transparent { position: absolute; }.admin-bar .site-header .navbar.is-transparent { top: 0; } }</style><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress." />
-<link rel="icon" href="https://galital.com/uploads/2021/02/cropped-astro-1-32x32.png" sizes="32x32" />
-<link rel="icon" href="https://galital.com/uploads/2021/02/cropped-astro-1-192x192.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="https://galital.com/uploads/2021/02/cropped-astro-1-180x180.png" />
-<meta name="msapplication-TileImage" content="https://galital.com/uploads/2021/02/cropped-astro-1-270x270.png" />
+<link rel="icon" href="https://galital.com/images/2021/02/cropped-astro-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://galital.com/images/2021/02/cropped-astro-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://galital.com/images/2021/02/cropped-astro-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://galital.com/images/2021/02/cropped-astro-1-270x270.png" />
 <style id="kirki-inline-styles">.site-header .navbar-brand img{width:150px;}.site-header .navbar-brand{margin-top:20px;margin-bottom:20px;margin-left:0;margin-right:20px;}.has-fixed.site-header .navbar-brand{margin-top:20px;margin-bottom:20px;margin-left:0;margin-right:15px;}.page-banner{min-height:280px;}h2.page-heading{font-size:34px;}footer.footer-section{padding-top:0px;}/* devanagari */
 @font-face {
   font-family: 'Poppins';
